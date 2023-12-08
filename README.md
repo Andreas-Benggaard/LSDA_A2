@@ -1,2 +1,2 @@
 # LDSA_A2
-LDSA's second assignment,
+Large Scale Data Analysis Assignment 2
