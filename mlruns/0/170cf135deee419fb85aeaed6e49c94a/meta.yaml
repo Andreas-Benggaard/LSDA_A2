@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Documents/GitHub/LDSA_A2/mlruns/0/170cf135deee419fb85aeaed6e49c94a/artifacts
+end_time: 1679229451683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 170cf135deee419fb85aeaed6e49c94a
+run_name: omniscient-bear-958
+run_uuid: 170cf135deee419fb85aeaed6e49c94a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679229433711
+status: 3
+tags: []
+user_id: andre

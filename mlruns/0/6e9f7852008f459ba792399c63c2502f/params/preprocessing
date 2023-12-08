@@ -1,0 +1,5 @@
+ColumnTransformer(transformers=[('cat', OneHotEncoder(handle_unknown='ignore'),
+                                 ['Direction']),
+                                ('num', SimpleImputer(), ['Speed']),
+                                ('scaler', StandardScaler(with_mean=False),
+                                 ['Speed'])])

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Documents/GitHub/LDSA_A2/mlruns/0/6b138509c4634fc19ebf6a23feb6d718/artifacts
+end_time: 1679229623279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 6b138509c4634fc19ebf6a23feb6d718
+run_uuid: 6b138509c4634fc19ebf6a23feb6d718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679229585450
+status: 3
+tags: []
+user_id: andre

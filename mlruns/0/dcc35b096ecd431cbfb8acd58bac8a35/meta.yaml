@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Documents/GitHub/LDSA_A2/mlruns/0/dcc35b096ecd431cbfb8acd58bac8a35/artifacts
+end_time: 1679476807154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcc35b096ecd431cbfb8acd58bac8a35
+run_name: suave-shad-509
+run_uuid: dcc35b096ecd431cbfb8acd58bac8a35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679476788616
+status: 3
+tags: []
+user_id: andre

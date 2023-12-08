@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Documents/GitHub/LDSA_A2/mlruns/0/90cd1350a7194b16b59efd49604cf933/artifacts
+end_time: 1679586560110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90cd1350a7194b16b59efd49604cf933
+run_name: upset-jay-41
+run_uuid: 90cd1350a7194b16b59efd49604cf933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679586532011
+status: 3
+tags: []
+user_id: andre

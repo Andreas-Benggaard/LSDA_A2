@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Documents/GitHub/LDSA_A2/mlruns/0/27386a8d279747d694eb6fd204a78804/artifacts
+end_time: 1679487539974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27386a8d279747d694eb6fd204a78804
+run_name: respected-squid-584
+run_uuid: 27386a8d279747d694eb6fd204a78804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679487513538
+status: 3
+tags: []
+user_id: andre

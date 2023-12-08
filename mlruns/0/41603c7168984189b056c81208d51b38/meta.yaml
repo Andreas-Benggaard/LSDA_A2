@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Documents/GitHub/LDSA_A2/mlruns/0/41603c7168984189b056c81208d51b38/artifacts
+end_time: 1679229977672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41603c7168984189b056c81208d51b38
+run_name: thoughtful-pig-663
+run_uuid: 41603c7168984189b056c81208d51b38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679229961875
+status: 3
+tags: []
+user_id: andre

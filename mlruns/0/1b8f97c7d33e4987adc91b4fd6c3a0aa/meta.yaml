@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Documents/GitHub/LDSA_A2/mlruns/0/1b8f97c7d33e4987adc91b4fd6c3a0aa/artifacts
+end_time: 1679166710990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b8f97c7d33e4987adc91b4fd6c3a0aa
+run_name: zealous-kite-623
+run_uuid: 1b8f97c7d33e4987adc91b4fd6c3a0aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679166646310
+status: 3
+tags: []
+user_id: andre

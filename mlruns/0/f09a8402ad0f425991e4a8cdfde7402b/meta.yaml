@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Documents/GitHub/LDSA_A2/mlruns/0/f09a8402ad0f425991e4a8cdfde7402b/artifacts
+end_time: 1679501382173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f09a8402ad0f425991e4a8cdfde7402b
+run_name: defiant-foal-851
+run_uuid: f09a8402ad0f425991e4a8cdfde7402b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679501373575
+status: 3
+tags: []
+user_id: andre

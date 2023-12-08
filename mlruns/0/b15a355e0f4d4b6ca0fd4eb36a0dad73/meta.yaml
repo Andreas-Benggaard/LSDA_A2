@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Documents/GitHub/LDSA_A2/mlruns/0/b15a355e0f4d4b6ca0fd4eb36a0dad73/artifacts
+end_time: 1679482908367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b15a355e0f4d4b6ca0fd4eb36a0dad73
+run_name: aged-ram-711
+run_uuid: b15a355e0f4d4b6ca0fd4eb36a0dad73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679482890331
+status: 3
+tags: []
+user_id: andre

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Documents/GitHub/LDSA_A2/mlruns/0/0ff361a17d88474e83aa405872168adc/artifacts
+end_time: 1679504698017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ff361a17d88474e83aa405872168adc
+run_name: tasteful-jay-639
+run_uuid: 0ff361a17d88474e83aa405872168adc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679504690369
+status: 3
+tags: []
+user_id: andre

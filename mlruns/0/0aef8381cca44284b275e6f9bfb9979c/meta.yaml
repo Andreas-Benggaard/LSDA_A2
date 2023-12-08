@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Documents/GitHub/LDSA_A2/mlruns/0/0aef8381cca44284b275e6f9bfb9979c/artifacts
+end_time: 1679229622501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0aef8381cca44284b275e6f9bfb9979c
+run_name: indecisive-shrike-96
+run_uuid: 0aef8381cca44284b275e6f9bfb9979c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679229605821
+status: 3
+tags: []
+user_id: andre
